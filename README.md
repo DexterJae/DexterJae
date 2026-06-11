@@ -111,8 +111,6 @@ MariaDB · Oracle DB · Git · GitHub · Linux
 
 ## 📊 GitHub Stats
 
-![Hyunwoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DexterJae\&show_icons=true\&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterJae\&layout=compact)
 
 ---
